@@ -1,0 +1,3842 @@
+[
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-01",
+        "TARGET": 43.42,
+        "REALISASI": 40.723074542,
+        "PENCAPAIAN": 0.93788748369415,
+        "BOBOT": 9.3788748369415
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-02",
+        "TARGET": 83.72,
+        "REALISASI": 85.695665595,
+        "PENCAPAIAN": 1.02359849014572,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-03",
+        "TARGET": 128.59,
+        "REALISASI": 130.992465197,
+        "PENCAPAIAN": 1.01868314174508,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-04",
+        "TARGET": 173.25,
+        "REALISASI": 174.141717631,
+        "PENCAPAIAN": 1.00514699931313,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-05",
+        "TARGET": 221.24,
+        "REALISASI": 220.679267909,
+        "PENCAPAIAN": 0.997465503114265,
+        "BOBOT": 9.97465503114265
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-06",
+        "TARGET": 267.77,
+        "REALISASI": 264.153803196,
+        "PENCAPAIAN": 0.986495138350076,
+        "BOBOT": 9.86495138350076
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-07",
+        "TARGET": 313.68,
+        "REALISASI": 310.617029807,
+        "PENCAPAIAN": 0.990235366637975,
+        "BOBOT": 9.90235366637975
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-08",
+        "TARGET": 358.97,
+        "REALISASI": 354.715123603,
+        "PENCAPAIAN": 0.988146986107474,
+        "BOBOT": 9.88146986107474
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-09",
+        "TARGET": 404.67,
+        "REALISASI": 398.325663707,
+        "PENCAPAIAN": 0.984322197610399,
+        "BOBOT": 9.84322197610398
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-10",
+        "TARGET": 453.7,
+        "REALISASI": 444.200362651,
+        "PENCAPAIAN": 0.979061852878554,
+        "BOBOT": 9.79061852878554
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-11",
+        "TARGET": 500.64,
+        "REALISASI": 486.612083162,
+        "PENCAPAIAN": 0.971980031883189,
+        "BOBOT": 9.7198003188319
+    },
+    {
+        "UNIT": "ULP KOTA TIMUR",
+        "BULAN": "2024-12",
+        "TARGET": 548.12,
+        "REALISASI": 530.852764969,
+        "PENCAPAIAN": 0.968497345415237,
+        "BOBOT": 9.68497345415237
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-01",
+        "TARGET": 43.25,
+        "REALISASI": 42.667535562,
+        "PENCAPAIAN": 0.986532614150289,
+        "BOBOT": 9.86532614150289
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-02",
+        "TARGET": 83.39,
+        "REALISASI": 84.242069396,
+        "PENCAPAIAN": 1.01021788459048,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-03",
+        "TARGET": 128.08,
+        "REALISASI": 130.321079739,
+        "PENCAPAIAN": 1.01749749952374,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-04",
+        "TARGET": 172.57,
+        "REALISASI": 174.016819806,
+        "PENCAPAIAN": 1.00838395900794,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-05",
+        "TARGET": 220.37,
+        "REALISASI": 220.994479532,
+        "PENCAPAIAN": 1.00283377742887,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-06",
+        "TARGET": 266.72,
+        "REALISASI": 265.505381952,
+        "PENCAPAIAN": 0.99544609310138,
+        "BOBOT": 9.9544609310138
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-07",
+        "TARGET": 312.45,
+        "REALISASI": 313.017653367,
+        "PENCAPAIAN": 1.00181678145943,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-08",
+        "TARGET": 357.55,
+        "REALISASI": 359.923712428,
+        "PENCAPAIAN": 1.00663882653615,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-09",
+        "TARGET": 403.08,
+        "REALISASI": 405.701142547,
+        "PENCAPAIAN": 1.00650278492359,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-10",
+        "TARGET": 451.91,
+        "REALISASI": 453.759292413,
+        "PENCAPAIAN": 1.00409216970857,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-11",
+        "TARGET": 498.67,
+        "REALISASI": 498.938692983,
+        "PENCAPAIAN": 1.00053881922514,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KOTA BARAT",
+        "BULAN": "2024-12",
+        "TARGET": 545.96,
+        "REALISASI": 545.351830274,
+        "PENCAPAIAN": 0.998886054425233,
+        "BOBOT": 9.98886054425233
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-01",
+        "TARGET": 36.33,
+        "REALISASI": 36.87675163,
+        "PENCAPAIAN": 1.01504959069639,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-02",
+        "TARGET": 70.05,
+        "REALISASI": 71.214072632,
+        "PENCAPAIAN": 1.01661773921485,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-03",
+        "TARGET": 107.59,
+        "REALISASI": 111.128830454,
+        "PENCAPAIAN": 1.03289181572637,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-04",
+        "TARGET": 144.96,
+        "REALISASI": 146.733930563,
+        "PENCAPAIAN": 1.01223737971164,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-05",
+        "TARGET": 185.11,
+        "REALISASI": 186.285119963,
+        "PENCAPAIAN": 1.00634822517962,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-06",
+        "TARGET": 224.05,
+        "REALISASI": 226.506331882,
+        "PENCAPAIAN": 1.01096332016068,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-07",
+        "TARGET": 262.46,
+        "REALISASI": 267.958593112,
+        "PENCAPAIAN": 1.02095021379258,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-08",
+        "TARGET": 300.35,
+        "REALISASI": 310.760868509,
+        "PENCAPAIAN": 1.03466245549858,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-09",
+        "TARGET": 338.59,
+        "REALISASI": 352.639680244,
+        "PENCAPAIAN": 1.04149466978942,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-10",
+        "TARGET": 379.61,
+        "REALISASI": 393.774807996,
+        "PENCAPAIAN": 1.03731410657253,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-11",
+        "TARGET": 418.9,
+        "REALISASI": 435.89672628,
+        "PENCAPAIAN": 1.04057466287897,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIMPANG TIGA",
+        "BULAN": "2024-12",
+        "TARGET": 458.62,
+        "REALISASI": 477.496973899,
+        "PENCAPAIAN": 1.0411603809232,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-01",
+        "TARGET": 15.47,
+        "REALISASI": 15.320680143,
+        "PENCAPAIAN": 0.990347779120879,
+        "BOBOT": 9.90347779120879
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-02",
+        "TARGET": 29.83,
+        "REALISASI": 30.633362723,
+        "PENCAPAIAN": 1.02693136852162,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-03",
+        "TARGET": 45.81,
+        "REALISASI": 47.553323727,
+        "PENCAPAIAN": 1.03805552776686,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-04",
+        "TARGET": 61.73,
+        "REALISASI": 63.569805792,
+        "PENCAPAIAN": 1.02980407892435,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-05",
+        "TARGET": 78.83,
+        "REALISASI": 80.579073008,
+        "PENCAPAIAN": 1.02218791079538,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-06",
+        "TARGET": 95.4,
+        "REALISASI": 96.712156039,
+        "PENCAPAIAN": 1.013754256174,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-07",
+        "TARGET": 111.76,
+        "REALISASI": 113.672095062,
+        "PENCAPAIAN": 1.01710893935218,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-08",
+        "TARGET": 127.9,
+        "REALISASI": 130.702797816,
+        "PENCAPAIAN": 1.02191397823299,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-09",
+        "TARGET": 144.18,
+        "REALISASI": 147.311535342,
+        "PENCAPAIAN": 1.02171962367873,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-10",
+        "TARGET": 161.65,
+        "REALISASI": 164.571542175,
+        "PENCAPAIAN": 1.01807325811939,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-11",
+        "TARGET": 178.37,
+        "REALISASI": 180.893373562,
+        "PENCAPAIAN": 1.01414684959354,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RUMBAI",
+        "BULAN": "2024-12",
+        "TARGET": 195.29,
+        "REALISASI": 197.91184831,
+        "PENCAPAIAN": 1.01342540995443,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-01",
+        "TARGET": 33.07,
+        "REALISASI": 32.541663577,
+        "PENCAPAIAN": 0.984023694496523,
+        "BOBOT": 9.84023694496523
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-02",
+        "TARGET": 63.76,
+        "REALISASI": 64.845355208,
+        "PENCAPAIAN": 1.01702250953576,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-03",
+        "TARGET": 97.94,
+        "REALISASI": 101.49835087,
+        "PENCAPAIAN": 1.03633194680417,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-04",
+        "TARGET": 131.96,
+        "REALISASI": 135.570572351,
+        "PENCAPAIAN": 1.027361112087,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-05",
+        "TARGET": 168.5,
+        "REALISASI": 173.004455065,
+        "PENCAPAIAN": 1.0267326710089,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-06",
+        "TARGET": 203.95,
+        "REALISASI": 208.175161776,
+        "PENCAPAIAN": 1.02071665494484,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-07",
+        "TARGET": 238.91,
+        "REALISASI": 245.569874761,
+        "PENCAPAIAN": 1.02787608204345,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-08",
+        "TARGET": 273.4,
+        "REALISASI": 282.61880053,
+        "PENCAPAIAN": 1.03371909484272,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-09",
+        "TARGET": 308.21,
+        "REALISASI": 319.202090853,
+        "PENCAPAIAN": 1.03566429010415,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-10",
+        "TARGET": 345.55,
+        "REALISASI": 357.575313251,
+        "PENCAPAIAN": 1.03480050137751,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-11",
+        "TARGET": 381.31,
+        "REALISASI": 393.485679905,
+        "PENCAPAIAN": 1.03193118435132,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANAM",
+        "BULAN": "2024-12",
+        "TARGET": 417.47,
+        "REALISASI": 430.804769654,
+        "PENCAPAIAN": 1.03194186325724,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-01",
+        "TARGET": 7.76,
+        "REALISASI": 7.898315752,
+        "PENCAPAIAN": 1.01782419484536,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-02",
+        "TARGET": 14.96,
+        "REALISASI": 15.235473809,
+        "PENCAPAIAN": 1.01841402466578,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-03",
+        "TARGET": 22.98,
+        "REALISASI": 23.737976404,
+        "PENCAPAIAN": 1.03298417771976,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-04",
+        "TARGET": 30.96,
+        "REALISASI": 31.564032604,
+        "PENCAPAIAN": 1.01951009702842,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-05",
+        "TARGET": 39.53,
+        "REALISASI": 39.931299665,
+        "PENCAPAIAN": 1.01015177498103,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-06",
+        "TARGET": 47.85,
+        "REALISASI": 47.862774816,
+        "PENCAPAIAN": 1.00026697630094,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-07",
+        "TARGET": 56.05,
+        "REALISASI": 56.430988966,
+        "PENCAPAIAN": 1.00679730537021,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-08",
+        "TARGET": 64.14,
+        "REALISASI": 64.89493037,
+        "PENCAPAIAN": 1.0117700400686,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-09",
+        "TARGET": 72.31,
+        "REALISASI": 73.071457088,
+        "PENCAPAIAN": 1.01053045343659,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-10",
+        "TARGET": 81.07,
+        "REALISASI": 81.493590129,
+        "PENCAPAIAN": 1.00522499233995,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-11",
+        "TARGET": 89.46,
+        "REALISASI": 89.623833331,
+        "PENCAPAIAN": 1.00183135849542,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PERAWANG",
+        "BULAN": "2024-12",
+        "TARGET": 97.94,
+        "REALISASI": 97.98596625,
+        "PENCAPAIAN": 1.00046933071268,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-01",
+        "TARGET": 10.67,
+        "REALISASI": 10.426478991,
+        "PENCAPAIAN": 0.977177037582006,
+        "BOBOT": 9.77177037582006
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-02",
+        "TARGET": 20.57,
+        "REALISASI": 20.749839028,
+        "PENCAPAIAN": 1.00874278210987,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-03",
+        "TARGET": 31.6,
+        "REALISASI": 32.14035717,
+        "PENCAPAIAN": 1.01709991044304,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-04",
+        "TARGET": 42.58,
+        "REALISASI": 43.202285904,
+        "PENCAPAIAN": 1.01461451160169,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-05",
+        "TARGET": 54.37,
+        "REALISASI": 54.810079949,
+        "PENCAPAIAN": 1.00809416864079,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-06",
+        "TARGET": 65.81,
+        "REALISASI": 65.694237399,
+        "PENCAPAIAN": 0.998240957286127,
+        "BOBOT": 9.98240957286127
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-07",
+        "TARGET": 77.09,
+        "REALISASI": 77.251300846,
+        "PENCAPAIAN": 1.0020923705539,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-08",
+        "TARGET": 88.22,
+        "REALISASI": 88.64465532,
+        "PENCAPAIAN": 1.00481359464974,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-09",
+        "TARGET": 99.45,
+        "REALISASI": 99.875286287,
+        "PENCAPAIAN": 1.00427638297637,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-10",
+        "TARGET": 111.5,
+        "REALISASI": 111.449911493,
+        "PENCAPAIAN": 0.999550775721973,
+        "BOBOT": 9.99550775721973
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-11",
+        "TARGET": 123.04,
+        "REALISASI": 122.512166435,
+        "PENCAPAIAN": 0.995710065303966,
+        "BOBOT": 9.95710065303966
+    },
+    {
+        "UNIT": "ULP SIAK SRI INDRAPURA",
+        "BULAN": "2024-12",
+        "TARGET": 134.71,
+        "REALISASI": 134.044411776,
+        "PENCAPAIAN": 0.995059103080692,
+        "BOBOT": 9.95059103080692
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-01",
+        "TARGET": 19.04,
+        "REALISASI": 18.707667052,
+        "PENCAPAIAN": 0.982545538445378,
+        "BOBOT": 9.82545538445378
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-02",
+        "TARGET": 36.72,
+        "REALISASI": 37.185395253,
+        "PENCAPAIAN": 1.0126741626634,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-03",
+        "TARGET": 56.41,
+        "REALISASI": 57.74374409,
+        "PENCAPAIAN": 1.02364375270342,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-04",
+        "TARGET": 76,
+        "REALISASI": 77.235270755,
+        "PENCAPAIAN": 1.01625356256579,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-05",
+        "TARGET": 97.05,
+        "REALISASI": 98.187800346,
+        "PENCAPAIAN": 1.01172385724884,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-06",
+        "TARGET": 117.46,
+        "REALISASI": 118.13374559,
+        "PENCAPAIAN": 1.00573595768772,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-07",
+        "TARGET": 137.6,
+        "REALISASI": 139.154266756,
+        "PENCAPAIAN": 1.01129554328488,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-08",
+        "TARGET": 157.46,
+        "REALISASI": 160.184035324,
+        "PENCAPAIAN": 1.01729985598882,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-09",
+        "TARGET": 177.51,
+        "REALISASI": 180.649087618,
+        "PENCAPAIAN": 1.01768400438285,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-10",
+        "TARGET": 199.01,
+        "REALISASI": 201.905658297,
+        "PENCAPAIAN": 1.01455031554696,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-11",
+        "TARGET": 219.61,
+        "REALISASI": 222.522328321,
+        "PENCAPAIAN": 1.01326136478758,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PANGKALAN KERINCI",
+        "BULAN": "2024-12",
+        "TARGET": 240.43,
+        "REALISASI": 243.811649689,
+        "PENCAPAIAN": 1.01406500723287,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-01",
+        "TARGET": 209,
+        "REALISASI": 205.162167249,
+        "PENCAPAIAN": 0.981637163870813,
+        "BOBOT": 9.81637163870813
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-02",
+        "TARGET": 403,
+        "REALISASI": 409.801233644,
+        "PENCAPAIAN": 1.01687651028288,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-03",
+        "TARGET": 619,
+        "REALISASI": 635.116127651,
+        "PENCAPAIAN": 1.0260357474168,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-04",
+        "TARGET": 834,
+        "REALISASI": 846.034435406,
+        "PENCAPAIAN": 1.01442977866427,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-05",
+        "TARGET": 1065,
+        "REALISASI": 1074.471575437,
+        "PENCAPAIAN": 1.00889349806291,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-06",
+        "TARGET": 1289,
+        "REALISASI": 1292.74359265,
+        "PENCAPAIAN": 1.00290426117145,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-07",
+        "TARGET": 1510,
+        "REALISASI": 1523.671802677,
+        "PENCAPAIAN": 1.00905417395828,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-08",
+        "TARGET": 1728,
+        "REALISASI": 1752.4449239,
+        "PENCAPAIAN": 1.01414636799769,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-09",
+        "TARGET": 1948,
+        "REALISASI": 1976.775943686,
+        "PENCAPAIAN": 1.01477204501335,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-10",
+        "TARGET": 2184,
+        "REALISASI": 2208.730478405,
+        "PENCAPAIAN": 1.01132347912317,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-11",
+        "TARGET": 2410,
+        "REALISASI": 2430.484883979,
+        "PENCAPAIAN": 1.00849995185851,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 PEKANBARU",
+        "BULAN": "2024-12",
+        "TARGET": 2639,
+        "REALISASI": 2658.260214821,
+        "PENCAPAIAN": 1.00729830042478,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-01",
+        "TARGET": 225.16,
+        "REALISASI": 243.201367638,
+        "PENCAPAIAN": 1.08012687705632,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-02",
+        "TARGET": 429.69,
+        "REALISASI": 466.204151297,
+        "PENCAPAIAN": 1.08497789405618,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-03",
+        "TARGET": 658.94,
+        "REALISASI": 711.970191269,
+        "PENCAPAIAN": 1.0804780272392,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-04",
+        "TARGET": 893.14,
+        "REALISASI": 947.034597083,
+        "PENCAPAIAN": 1.06034283212374,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-05",
+        "TARGET": 1153.31,
+        "REALISASI": 1189.841688586,
+        "PENCAPAIAN": 1.03167551533066,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-06",
+        "TARGET": 1399.37,
+        "REALISASI": 1410.255404426,
+        "PENCAPAIAN": 1.00777878933091,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-07",
+        "TARGET": 1652.04,
+        "REALISASI": 1620.6487462,
+        "PENCAPAIAN": 0.980998490472386,
+        "BOBOT": 9.80998490472386
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-08",
+        "TARGET": 1879.94,
+        "REALISASI": 1868.81790577,
+        "PENCAPAIAN": 0.994083803616073,
+        "BOBOT": 9.94083803616073
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-09",
+        "TARGET": 2122.14,
+        "REALISASI": 2106.226799513,
+        "PENCAPAIAN": 0.992501342754484,
+        "BOBOT": 9.92501342754483
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-10",
+        "TARGET": 2376.79,
+        "REALISASI": 2345.030763203,
+        "PENCAPAIAN": 0.986637760678478,
+        "BOBOT": 9.86637760678478
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-11",
+        "TARGET": 2626.45,
+        "REALISASI": 2583.416869176,
+        "PENCAPAIAN": 0.983615476851263,
+        "BOBOT": 9.83615476851263
+    },
+    {
+        "UNIT": "ULP DURI",
+        "BULAN": "2024-12",
+        "TARGET": 2876.98,
+        "REALISASI": 2830.318646971,
+        "PENCAPAIAN": 0.983781134026305,
+        "BOBOT": 9.83781134026305
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-01",
+        "TARGET": 10.05,
+        "REALISASI": 10.107063586,
+        "PENCAPAIAN": 1.00567796875622,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-02",
+        "TARGET": 20.03,
+        "REALISASI": 20.26278844,
+        "PENCAPAIAN": 1.01162198901648,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-03",
+        "TARGET": 30.47,
+        "REALISASI": 31.354569331,
+        "PENCAPAIAN": 1.02903082806039,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-04",
+        "TARGET": 40.89,
+        "REALISASI": 42.204281497,
+        "PENCAPAIAN": 1.03214188058205,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-05",
+        "TARGET": 52.15,
+        "REALISASI": 53.405395612,
+        "PENCAPAIAN": 1.02407278258869,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-06",
+        "TARGET": 63.53,
+        "REALISASI": 64.217129588,
+        "PENCAPAIAN": 1.01081582855344,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-07",
+        "TARGET": 73.79,
+        "REALISASI": 75.335443054,
+        "PENCAPAIAN": 1.0209438007047,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-08",
+        "TARGET": 84.85,
+        "REALISASI": 86.479810705,
+        "PENCAPAIAN": 1.01920814030642,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-09",
+        "TARGET": 96.02,
+        "REALISASI": 97.354408062,
+        "PENCAPAIAN": 1.01389718873151,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-10",
+        "TARGET": 107.97,
+        "REALISASI": 108.520938249,
+        "PENCAPAIAN": 1.00510269749931,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-11",
+        "TARGET": 119.06,
+        "REALISASI": 119.258163904,
+        "PENCAPAIAN": 1.00166440369562,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGANSIAPI-API",
+        "BULAN": "2024-12",
+        "TARGET": 131.04,
+        "REALISASI": 130.250443945,
+        "PENCAPAIAN": 0.993974694329976,
+        "BOBOT": 9.93974694329976
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-01",
+        "TARGET": 14.3,
+        "REALISASI": 14.368501578,
+        "PENCAPAIAN": 1.00479032013986,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-02",
+        "TARGET": 27.8,
+        "REALISASI": 28.065522755,
+        "PENCAPAIAN": 1.00955117823741,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-03",
+        "TARGET": 42.67,
+        "REALISASI": 43.443556563,
+        "PENCAPAIAN": 1.01812881563159,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-04",
+        "TARGET": 57.5,
+        "REALISASI": 58.383866472,
+        "PENCAPAIAN": 1.01537159081739,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-05",
+        "TARGET": 72.54,
+        "REALISASI": 73.827995802,
+        "PENCAPAIAN": 1.01775566311001,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-06",
+        "TARGET": 88.04,
+        "REALISASI": 89.323158266,
+        "PENCAPAIAN": 1.01457471905952,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-07",
+        "TARGET": 102.36,
+        "REALISASI": 105.310167071,
+        "PENCAPAIAN": 1.0288214836948,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-08",
+        "TARGET": 118.09,
+        "REALISASI": 121.028596854,
+        "PENCAPAIAN": 1.02488438355492,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-09",
+        "TARGET": 132.59,
+        "REALISASI": 135.902744455,
+        "PENCAPAIAN": 1.02498487408553,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-10",
+        "TARGET": 148.89,
+        "REALISASI": 151.700270954,
+        "PENCAPAIAN": 1.01887481331184,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-11",
+        "TARGET": 163.54,
+        "REALISASI": 167.059194731,
+        "PENCAPAIAN": 1.02151886224165,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BENGKALIS",
+        "BULAN": "2024-12",
+        "TARGET": 178.31,
+        "REALISASI": 183.125400758,
+        "PENCAPAIAN": 1.02700578070776,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-01",
+        "TARGET": 7.9,
+        "REALISASI": 7.967168923,
+        "PENCAPAIAN": 1.00850239531646,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-02",
+        "TARGET": 15.6,
+        "REALISASI": 16.39188677,
+        "PENCAPAIAN": 1.0507619724359,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-03",
+        "TARGET": 24.34,
+        "REALISASI": 25.725611558,
+        "PENCAPAIAN": 1.05692734420707,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-04",
+        "TARGET": 33.07,
+        "REALISASI": 35.185572113,
+        "PENCAPAIAN": 1.06397254650741,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-05",
+        "TARGET": 42.49,
+        "REALISASI": 44.641883542,
+        "PENCAPAIAN": 1.05064447027536,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-06",
+        "TARGET": 52.36,
+        "REALISASI": 53.801045669,
+        "PENCAPAIAN": 1.02752188061497,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-07",
+        "TARGET": 62.36,
+        "REALISASI": 62.8975799,
+        "PENCAPAIAN": 1.00862058851828,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-08",
+        "TARGET": 71.7,
+        "REALISASI": 71.558811347,
+        "PENCAPAIAN": 0.998030841659693,
+        "BOBOT": 9.98030841659693
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-09",
+        "TARGET": 81.14,
+        "REALISASI": 80.229868906,
+        "PENCAPAIAN": 0.988783200714814,
+        "BOBOT": 9.88783200714814
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-10",
+        "TARGET": 91.73,
+        "REALISASI": 89.207442302,
+        "PENCAPAIAN": 0.972500188618773,
+        "BOBOT": 9.72500188618772
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-11",
+        "TARGET": 100.93,
+        "REALISASI": 98.705587535,
+        "PENCAPAIAN": 0.977960839542257,
+        "BOBOT": 9.77960839542257
+    },
+    {
+        "UNIT": "ULP SELATPANJANG",
+        "BULAN": "2024-12",
+        "TARGET": 111.2,
+        "REALISASI": 107.790130182,
+        "PENCAPAIAN": 0.96933570307554,
+        "BOBOT": 9.6933570307554
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-01",
+        "TARGET": 75.6,
+        "REALISASI": 75.639802128,
+        "PENCAPAIAN": 1.0005264831746,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-02",
+        "TARGET": 147.93,
+        "REALISASI": 147.965842632,
+        "PENCAPAIAN": 1.00024229454472,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-03",
+        "TARGET": 226.16,
+        "REALISASI": 226.290114718,
+        "PENCAPAIAN": 1.00057532153343,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-04",
+        "TARGET": 298.59,
+        "REALISASI": 298.995767277,
+        "PENCAPAIAN": 1.00135894462976,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-05",
+        "TARGET": 371.6,
+        "REALISASI": 377.96425368,
+        "PENCAPAIAN": 1.01712662454252,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-06",
+        "TARGET": 443.79,
+        "REALISASI": 451.589784961,
+        "PENCAPAIAN": 1.01757539593276,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-07",
+        "TARGET": 508.88,
+        "REALISASI": 530.177317417,
+        "PENCAPAIAN": 1.04185135477323,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-08",
+        "TARGET": 589.4,
+        "REALISASI": 606.96364425,
+        "PENCAPAIAN": 1.02979919282321,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-09",
+        "TARGET": 662.32,
+        "REALISASI": 686.089154428,
+        "PENCAPAIAN": 1.03588771957362,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-10",
+        "TARGET": 742.32,
+        "REALISASI": 770.141440689,
+        "PENCAPAIAN": 1.03747903961768,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-11",
+        "TARGET": 817.12,
+        "REALISASI": 851.301074439,
+        "PENCAPAIAN": 1.04183115630385,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DUMAI KOTA",
+        "BULAN": "2024-12",
+        "TARGET": 891.8,
+        "REALISASI": 936.539634234,
+        "PENCAPAIAN": 1.05016778900426,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-01",
+        "TARGET": 18.99,
+        "REALISASI": 19.055251818,
+        "PENCAPAIAN": 1.00343611469194,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-02",
+        "TARGET": 37.95,
+        "REALISASI": 38.197914781,
+        "PENCAPAIAN": 1.00653266880105,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-03",
+        "TARGET": 58.41,
+        "REALISASI": 59.577047322,
+        "PENCAPAIAN": 1.01998026574217,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-04",
+        "TARGET": 78.81,
+        "REALISASI": 80.271462658,
+        "PENCAPAIAN": 1.01854412711585,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-05",
+        "TARGET": 99.91,
+        "REALISASI": 101.926701785,
+        "PENCAPAIAN": 1.02018518451606,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-06",
+        "TARGET": 120.92,
+        "REALISASI": 122.579467733,
+        "PENCAPAIAN": 1.01372368287297,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-07",
+        "TARGET": 141.56,
+        "REALISASI": 144.287488102,
+        "PENCAPAIAN": 1.01926736438259,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-08",
+        "TARGET": 163.01,
+        "REALISASI": 165.78945761,
+        "PENCAPAIAN": 1.01705084111404,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-09",
+        "TARGET": 182.79,
+        "REALISASI": 186.613868817,
+        "PENCAPAIAN": 1.02091946395864,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-10",
+        "TARGET": 206.3,
+        "REALISASI": 208.195563836,
+        "PENCAPAIAN": 1.0091883850509,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-11",
+        "TARGET": 227.9,
+        "REALISASI": 229.082860538,
+        "PENCAPAIAN": 1.00519026124616,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BAGAN BATU",
+        "BULAN": "2024-12",
+        "TARGET": 249.67,
+        "REALISASI": 250.652600632,
+        "PENCAPAIAN": 1.00393559751672,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-01",
+        "TARGET": 352,
+        "REALISASI": 370.339155671,
+        "PENCAPAIAN": 1.05209987406534,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-02",
+        "TARGET": 679,
+        "REALISASI": 717.088106675,
+        "PENCAPAIAN": 1.05609441336524,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-03",
+        "TARGET": 1041,
+        "REALISASI": 1098.361090761,
+        "PENCAPAIAN": 1.05510191235447,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-04",
+        "TARGET": 1402,
+        "REALISASI": 1462.0755471,
+        "PENCAPAIAN": 1.04284989094151,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-05",
+        "TARGET": 1792,
+        "REALISASI": 1841.607919007,
+        "PENCAPAIAN": 1.0276829905173,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-06",
+        "TARGET": 2168,
+        "REALISASI": 2191.765990643,
+        "PENCAPAIAN": 1.01096217280581,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-07",
+        "TARGET": 2541,
+        "REALISASI": 2538.656741744,
+        "PENCAPAIAN": 0.999077820442346,
+        "BOBOT": 9.99077820442346
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-08",
+        "TARGET": 2907,
+        "REALISASI": 2920.638226536,
+        "PENCAPAIAN": 1.00469151239628,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-09",
+        "TARGET": 3277,
+        "REALISASI": 3292.416844181,
+        "PENCAPAIAN": 1.00470456032377,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-10",
+        "TARGET": 3674,
+        "REALISASI": 3672.796419233,
+        "PENCAPAIAN": 0.999672405888133,
+        "BOBOT": 9.99672405888133
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-11",
+        "TARGET": 4055,
+        "REALISASI": 4048.823750323,
+        "PENCAPAIAN": 0.998476880474229,
+        "BOBOT": 9.98476880474229
+    },
+    {
+        "UNIT": "UP3 DUMAI",
+        "BULAN": "2024-12",
+        "TARGET": 4439,
+        "REALISASI": 4438.676856722,
+        "PENCAPAIAN": 0.999927203586844,
+        "BOBOT": 9.99927203586844
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-01",
+        "TARGET": 15.83,
+        "REALISASI": 13.934455694,
+        "PENCAPAIAN": 0.880256203032217,
+        "BOBOT": 8.80256203032217
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-02",
+        "TARGET": 30.12,
+        "REALISASI": 28.233319457,
+        "PENCAPAIAN": 0.93736120375166,
+        "BOBOT": 9.3736120375166
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-03",
+        "TARGET": 45.95,
+        "REALISASI": 44.138819474,
+        "PENCAPAIAN": 0.960583666463547,
+        "BOBOT": 9.60583666463547
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-04",
+        "TARGET": 61.27,
+        "REALISASI": 59.348494223,
+        "PENCAPAIAN": 0.96863871752897,
+        "BOBOT": 9.6863871752897
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-05",
+        "TARGET": 77.1,
+        "REALISASI": 75.258146866,
+        "PENCAPAIAN": 0.976110854293126,
+        "BOBOT": 9.76110854293126
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-06",
+        "TARGET": 92.41,
+        "REALISASI": 90.702773734,
+        "PENCAPAIAN": 0.981525524661833,
+        "BOBOT": 9.81525524661833
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-07",
+        "TARGET": 108.24,
+        "REALISASI": 106.902087125,
+        "PENCAPAIAN": 0.987639385855506,
+        "BOBOT": 9.87639385855506
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-08",
+        "TARGET": 124.07,
+        "REALISASI": 123.042760015,
+        "PENCAPAIAN": 0.991720480494882,
+        "BOBOT": 9.91720480494882
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-09",
+        "TARGET": 139.38,
+        "REALISASI": 138.845773366,
+        "PENCAPAIAN": 0.996167121294303,
+        "BOBOT": 9.96167121294303
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-10",
+        "TARGET": 155.39,
+        "REALISASI": 154.849637141,
+        "PENCAPAIAN": 0.996522537750177,
+        "BOBOT": 9.96522537750177
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-11",
+        "TARGET": 170.53,
+        "REALISASI": 170.07145798,
+        "PENCAPAIAN": 0.997311077112531,
+        "BOBOT": 9.97311077112531
+    },
+    {
+        "UNIT": "ULP BINTAN CENTER",
+        "BULAN": "2024-12",
+        "TARGET": 186.36,
+        "REALISASI": 186.151437736,
+        "PENCAPAIAN": 0.998880863575875,
+        "BOBOT": 9.98880863575875
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-01",
+        "TARGET": 10.1,
+        "REALISASI": 8.839344842,
+        "PENCAPAIAN": 0.875182657623762,
+        "BOBOT": 8.75182657623762
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-02",
+        "TARGET": 19.22,
+        "REALISASI": 17.699198443,
+        "PENCAPAIAN": 0.920874008480749,
+        "BOBOT": 9.20874008480749
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-03",
+        "TARGET": 29.32,
+        "REALISASI": 27.449446091,
+        "PENCAPAIAN": 0.936202117701228,
+        "BOBOT": 9.36202117701228
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-04",
+        "TARGET": 39.1,
+        "REALISASI": 36.962238743,
+        "PENCAPAIAN": 0.945325799053708,
+        "BOBOT": 9.45325799053708
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-05",
+        "TARGET": 49.2,
+        "REALISASI": 46.928370206,
+        "PENCAPAIAN": 0.953828662723577,
+        "BOBOT": 9.53828662723577
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-06",
+        "TARGET": 58.97,
+        "REALISASI": 56.609626632,
+        "PENCAPAIAN": 0.959973319179244,
+        "BOBOT": 9.59973319179244
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-07",
+        "TARGET": 69.07,
+        "REALISASI": 66.840639348,
+        "PENCAPAIAN": 0.967723169943536,
+        "BOBOT": 9.67723169943536
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-08",
+        "TARGET": 79.17,
+        "REALISASI": 77.245113046,
+        "PENCAPAIAN": 0.975686662195276,
+        "BOBOT": 9.75686662195276
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-09",
+        "TARGET": 88.94,
+        "REALISASI": 87.043749334,
+        "PENCAPAIAN": 0.978679439329885,
+        "BOBOT": 9.78679439329886
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-10",
+        "TARGET": 99.15,
+        "REALISASI": 97.120782037,
+        "PENCAPAIAN": 0.979533858164397,
+        "BOBOT": 9.79533858164397
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-11",
+        "TARGET": 108.82,
+        "REALISASI": 106.56603514,
+        "PENCAPAIAN": 0.979287218709796,
+        "BOBOT": 9.79287218709796
+    },
+    {
+        "UNIT": "ULP KIJANG",
+        "BULAN": "2024-12",
+        "TARGET": 118.92,
+        "REALISASI": 116.745445387,
+        "PENCAPAIAN": 0.981714138807602,
+        "BOBOT": 9.81714138807602
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-01",
+        "TARGET": 13.57,
+        "REALISASI": 12.300388438,
+        "PENCAPAIAN": 0.906439825939573,
+        "BOBOT": 9.06439825939573
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-02",
+        "TARGET": 25.82,
+        "REALISASI": 24.567484355,
+        "PENCAPAIAN": 0.951490486250968,
+        "BOBOT": 9.51490486250968
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-03",
+        "TARGET": 39.38,
+        "REALISASI": 38.278439807,
+        "PENCAPAIAN": 0.972027420187913,
+        "BOBOT": 9.72027420187912
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-04",
+        "TARGET": 52.51,
+        "REALISASI": 51.034476916,
+        "PENCAPAIAN": 0.971900150752238,
+        "BOBOT": 9.71900150752238
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-05",
+        "TARGET": 66.08,
+        "REALISASI": 64.765930477,
+        "PENCAPAIAN": 0.980113960003027,
+        "BOBOT": 9.80113960003027
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-06",
+        "TARGET": 79.2,
+        "REALISASI": 78.206056307,
+        "PENCAPAIAN": 0.987450205896465,
+        "BOBOT": 9.87450205896465
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-07",
+        "TARGET": 92.77,
+        "REALISASI": 92.240953103,
+        "PENCAPAIAN": 0.994297220038806,
+        "BOBOT": 9.94297220038806
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-08",
+        "TARGET": 106.33,
+        "REALISASI": 105.665390281,
+        "PENCAPAIAN": 0.993749555920248,
+        "BOBOT": 9.93749555920248
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-09",
+        "TARGET": 119.46,
+        "REALISASI": 118.888828113,
+        "PENCAPAIAN": 0.995218718508287,
+        "BOBOT": 9.95218718508287
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-10",
+        "TARGET": 133.18,
+        "REALISASI": 132.808141447,
+        "PENCAPAIAN": 0.997207849879862,
+        "BOBOT": 9.97207849879862
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-11",
+        "TARGET": 146.15,
+        "REALISASI": 145.486559931,
+        "PENCAPAIAN": 0.995460553752994,
+        "BOBOT": 9.95460553752994
+    },
+    {
+        "UNIT": "ULP TANJUNG UBAN",
+        "BULAN": "2024-12",
+        "TARGET": 159.72,
+        "REALISASI": 159.637966625,
+        "PENCAPAIAN": 0.999486392593288,
+        "BOBOT": 9.99486392593288
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-01",
+        "TARGET": 1.29,
+        "REALISASI": 1.181178546,
+        "PENCAPAIAN": 0.91564228372093,
+        "BOBOT": 9.1564228372093
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-02",
+        "TARGET": 2.45,
+        "REALISASI": 2.361448221,
+        "PENCAPAIAN": 0.963856416734694,
+        "BOBOT": 9.63856416734694
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-03",
+        "TARGET": 3.74,
+        "REALISASI": 3.689406027,
+        "PENCAPAIAN": 0.98647219973262,
+        "BOBOT": 9.8647219973262
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-04",
+        "TARGET": 4.98,
+        "REALISASI": 5.047206725,
+        "PENCAPAIAN": 1.01349532630522,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-05",
+        "TARGET": 6.27,
+        "REALISASI": 6.394953704,
+        "PENCAPAIAN": 1.01992882041467,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-06",
+        "TARGET": 7.51,
+        "REALISASI": 7.723271059,
+        "PENCAPAIAN": 1.02839827683089,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-07",
+        "TARGET": 8.8,
+        "REALISASI": 9.051907407,
+        "PENCAPAIAN": 1.02862584170455,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-08",
+        "TARGET": 10.09,
+        "REALISASI": 10.403299559,
+        "PENCAPAIAN": 1.03105050138751,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-09",
+        "TARGET": 11.33,
+        "REALISASI": 11.676007177,
+        "PENCAPAIAN": 1.0305390270962,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-10",
+        "TARGET": 12.63,
+        "REALISASI": 13.018647423,
+        "PENCAPAIAN": 1.03077176745843,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-11",
+        "TARGET": 13.87,
+        "REALISASI": 14.316834175,
+        "PENCAPAIAN": 1.0322158741889,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BELAKANG PADANG",
+        "BULAN": "2024-12",
+        "TARGET": 15.15,
+        "REALISASI": 15.625241963,
+        "PENCAPAIAN": 1.03136910646865,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-01",
+        "TARGET": 17.08,
+        "REALISASI": 15.623473051,
+        "PENCAPAIAN": 0.914723246545668,
+        "BOBOT": 9.14723246545667
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-02",
+        "TARGET": 32.51,
+        "REALISASI": 31.642437051,
+        "PENCAPAIAN": 0.973313966502615,
+        "BOBOT": 9.73313966502615
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-03",
+        "TARGET": 49.6,
+        "REALISASI": 49.145683603,
+        "PENCAPAIAN": 0.990840395221774,
+        "BOBOT": 9.90840395221774
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-04",
+        "TARGET": 66.13,
+        "REALISASI": 66.048177065,
+        "PENCAPAIAN": 0.998762695675185,
+        "BOBOT": 9.98762695675185
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-05",
+        "TARGET": 83.21,
+        "REALISASI": 83.570482712,
+        "PENCAPAIAN": 1.00433220420623,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-06",
+        "TARGET": 99.74,
+        "REALISASI": 100.346444539,
+        "PENCAPAIAN": 1.00608025405053,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-07",
+        "TARGET": 116.83,
+        "REALISASI": 117.567755788,
+        "PENCAPAIAN": 1.00631478034751,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-08",
+        "TARGET": 133.91,
+        "REALISASI": 135.127428464,
+        "PENCAPAIAN": 1.00909139320439,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-09",
+        "TARGET": 150.44,
+        "REALISASI": 151.817854616,
+        "PENCAPAIAN": 1.00915883153417,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-10",
+        "TARGET": 167.71,
+        "REALISASI": 168.830113189,
+        "PENCAPAIAN": 1.00667886941148,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-11",
+        "TARGET": 184.06,
+        "REALISASI": 185.365324351,
+        "PENCAPAIAN": 1.0070918415245,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BALAI KARIMUN",
+        "BULAN": "2024-12",
+        "TARGET": 201.14,
+        "REALISASI": 202.515243296,
+        "PENCAPAIAN": 1.00683724418813,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-01",
+        "TARGET": 5.12,
+        "REALISASI": 4.800058356,
+        "PENCAPAIAN": 0.93751139765625,
+        "BOBOT": 9.3751139765625
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-02",
+        "TARGET": 9.75,
+        "REALISASI": 9.603684513,
+        "PENCAPAIAN": 0.984993283384615,
+        "BOBOT": 9.84993283384615
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-03",
+        "TARGET": 14.87,
+        "REALISASI": 14.871068752,
+        "PENCAPAIAN": 1.00007187303295,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-04",
+        "TARGET": 19.83,
+        "REALISASI": 20.232215762,
+        "PENCAPAIAN": 1.02028319525971,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-05",
+        "TARGET": 24.95,
+        "REALISASI": 25.622741002,
+        "PENCAPAIAN": 1.02696356721443,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-06",
+        "TARGET": 29.9,
+        "REALISASI": 30.816869427,
+        "PENCAPAIAN": 1.0306645293311,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-07",
+        "TARGET": 35.03,
+        "REALISASI": 36.069710738,
+        "PENCAPAIAN": 1.02968058058807,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-08",
+        "TARGET": 40.15,
+        "REALISASI": 41.440877212,
+        "PENCAPAIAN": 1.03215136268991,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-09",
+        "TARGET": 45.1,
+        "REALISASI": 46.613000022,
+        "PENCAPAIAN": 1.03354767232816,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-10",
+        "TARGET": 50.28,
+        "REALISASI": 51.87478779,
+        "PENCAPAIAN": 1.03171813424821,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-11",
+        "TARGET": 55.18,
+        "REALISASI": 56.967255989,
+        "PENCAPAIAN": 1.03238956123596,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNG BATU",
+        "BULAN": "2024-12",
+        "TARGET": 60.3,
+        "REALISASI": 62.233864729,
+        "PENCAPAIAN": 1.03207072519071,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-01",
+        "TARGET": 4.31,
+        "REALISASI": 3.975675439,
+        "PENCAPAIAN": 0.922430496287703,
+        "BOBOT": 9.22430496287703
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-02",
+        "TARGET": 8.2,
+        "REALISASI": 7.949648514,
+        "PENCAPAIAN": 0.96946933097561,
+        "BOBOT": 9.6946933097561
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-03",
+        "TARGET": 12.5,
+        "REALISASI": 12.353675232,
+        "PENCAPAIAN": 0.98829401856,
+        "BOBOT": 9.8829401856
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-04",
+        "TARGET": 16.67,
+        "REALISASI": 16.760272483,
+        "PENCAPAIAN": 1.00541526592681,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-05",
+        "TARGET": 20.98,
+        "REALISASI": 21.220594043,
+        "PENCAPAIAN": 1.01146778088656,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-06",
+        "TARGET": 25.15,
+        "REALISASI": 25.553936532,
+        "PENCAPAIAN": 1.01606109471173,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-07",
+        "TARGET": 29.45,
+        "REALISASI": 29.898174545,
+        "PENCAPAIAN": 1.01521815093379,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-08",
+        "TARGET": 33.76,
+        "REALISASI": 34.480943612,
+        "PENCAPAIAN": 1.02135496481043,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-09",
+        "TARGET": 37.93,
+        "REALISASI": 38.869976709,
+        "PENCAPAIAN": 1.02478188001582,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-10",
+        "TARGET": 42.28,
+        "REALISASI": 43.46861589,
+        "PENCAPAIAN": 1.02811295860927,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-11",
+        "TARGET": 46.4,
+        "REALISASI": 47.94696679,
+        "PENCAPAIAN": 1.03333980150862,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP DABO SINGKEP",
+        "BULAN": "2024-12",
+        "TARGET": 50.71,
+        "REALISASI": 52.570901832,
+        "PENCAPAIAN": 1.03669694009071,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-01",
+        "TARGET": 5.48,
+        "REALISASI": 5.288844325,
+        "PENCAPAIAN": 0.965117577554744,
+        "BOBOT": 9.65117577554745
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-02",
+        "TARGET": 10.42,
+        "REALISASI": 10.472606515,
+        "PENCAPAIAN": 1.00504860988484,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-03",
+        "TARGET": 15.9,
+        "REALISASI": 16.227570921,
+        "PENCAPAIAN": 1.02060194471698,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-04",
+        "TARGET": 21.2,
+        "REALISASI": 21.876238278,
+        "PENCAPAIAN": 1.03189803198113,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-05",
+        "TARGET": 26.68,
+        "REALISASI": 27.886859658,
+        "PENCAPAIAN": 1.04523461986507,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-06",
+        "TARGET": 31.98,
+        "REALISASI": 33.488161622,
+        "PENCAPAIAN": 1.04715952539087,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-07",
+        "TARGET": 37.45,
+        "REALISASI": 39.225843531,
+        "PENCAPAIAN": 1.0474190528972,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-08",
+        "TARGET": 42.93,
+        "REALISASI": 44.99166299,
+        "PENCAPAIAN": 1.04802382925693,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-09",
+        "TARGET": 48.23,
+        "REALISASI": 50.58739477,
+        "PENCAPAIAN": 1.04887818308107,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-10",
+        "TARGET": 53.77,
+        "REALISASI": 56.505576872,
+        "PENCAPAIAN": 1.05087552300539,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-11",
+        "TARGET": 59.01,
+        "REALISASI": 62.26189707,
+        "PENCAPAIAN": 1.05510755922725,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP NATUNA",
+        "BULAN": "2024-12",
+        "TARGET": 64.49,
+        "REALISASI": 67.986258263,
+        "PENCAPAIAN": 1.05421395973019,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-01",
+        "TARGET": 14.72,
+        "REALISASI": 13.280955714,
+        "PENCAPAIAN": 0.902238839266304,
+        "BOBOT": 9.02238839266304
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-02",
+        "TARGET": 28.02,
+        "REALISASI": 27.118102128,
+        "PENCAPAIAN": 0.967812352890792,
+        "BOBOT": 9.67812352890792
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-03",
+        "TARGET": 42.74,
+        "REALISASI": 42.012624755,
+        "PENCAPAIAN": 0.982981393425363,
+        "BOBOT": 9.82981393425363
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-04",
+        "TARGET": 56.98,
+        "REALISASI": 56.656206507,
+        "PENCAPAIAN": 0.994317418515269,
+        "BOBOT": 9.94317418515269
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-05",
+        "TARGET": 71.71,
+        "REALISASI": 71.577705387,
+        "PENCAPAIAN": 0.998155144150049,
+        "BOBOT": 9.98155144150049
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-06",
+        "TARGET": 85.95,
+        "REALISASI": 86.105296067,
+        "PENCAPAIAN": 1.00180681869692,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-07",
+        "TARGET": 100.67,
+        "REALISASI": 101.409303973,
+        "PENCAPAIAN": 1.00734383602861,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-08",
+        "TARGET": 115.39,
+        "REALISASI": 116.807488785,
+        "PENCAPAIAN": 1.01228432953462,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-09",
+        "TARGET": 129.64,
+        "REALISASI": 131.436437283,
+        "PENCAPAIAN": 1.01385712189911,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-10",
+        "TARGET": 144.52,
+        "REALISASI": 146.409801162,
+        "PENCAPAIAN": 1.01307639885137,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-11",
+        "TARGET": 158.61,
+        "REALISASI": 160.913528303,
+        "PENCAPAIAN": 1.01452322238825,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TANJUNGPINANG KOTA",
+        "BULAN": "2024-12",
+        "TARGET": 173.33,
+        "REALISASI": 175.748457398,
+        "PENCAPAIAN": 1.01395290715975,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-01",
+        "TARGET": 3.05,
+        "REALISASI": 2.714674379,
+        "PENCAPAIAN": 0.890057173442623,
+        "BOBOT": 8.90057173442623
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-02",
+        "TARGET": 5.8,
+        "REALISASI": 5.419408022,
+        "PENCAPAIAN": 0.934380693448276,
+        "BOBOT": 9.34380693448276
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-03",
+        "TARGET": 8.85,
+        "REALISASI": 8.457758419,
+        "PENCAPAIAN": 0.95567891740113,
+        "BOBOT": 9.5567891740113
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-04",
+        "TARGET": 11.8,
+        "REALISASI": 11.549384973,
+        "PENCAPAIAN": 0.978761438389831,
+        "BOBOT": 9.7876143838983
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-05",
+        "TARGET": 14.85,
+        "REALISASI": 14.909803881,
+        "PENCAPAIAN": 1.00402719737374,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-06",
+        "TARGET": 17.8,
+        "REALISASI": 18.075613138,
+        "PENCAPAIAN": 1.0154838841573,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-07",
+        "TARGET": 20.85,
+        "REALISASI": 21.147444491,
+        "PENCAPAIAN": 1.01426592282974,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-08",
+        "TARGET": 23.9,
+        "REALISASI": 24.309493344,
+        "PENCAPAIAN": 1.01713361271967,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-09",
+        "TARGET": 26.85,
+        "REALISASI": 27.373039702,
+        "PENCAPAIAN": 1.0194800633892,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-10",
+        "TARGET": 29.94,
+        "REALISASI": 30.59982329,
+        "PENCAPAIAN": 1.02203818603874,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-11",
+        "TARGET": 32.85,
+        "REALISASI": 33.752184983,
+        "PENCAPAIAN": 1.02746377421613,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP ANAMBAS",
+        "BULAN": "2024-12",
+        "TARGET": 35.9,
+        "REALISASI": 36.856579434,
+        "PENCAPAIAN": 1.02664566668524,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-01",
+        "TARGET": 84,
+        "REALISASI": 81.939048784,
+        "PENCAPAIAN": 0.97546486647619,
+        "BOBOT": 9.7546486647619
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-02",
+        "TARGET": 163,
+        "REALISASI": 165.067337219,
+        "PENCAPAIAN": 1.01268305042331,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-03",
+        "TARGET": 250,
+        "REALISASI": 256.624493081,
+        "PENCAPAIAN": 1.026497972324,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-04",
+        "TARGET": 337,
+        "REALISASI": 345.514911675,
+        "PENCAPAIAN": 1.02526680022255,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-05",
+        "TARGET": 430,
+        "REALISASI": 438.135587936,
+        "PENCAPAIAN": 1.01891997194419,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-06",
+        "TARGET": 521,
+        "REALISASI": 527.628049057,
+        "PENCAPAIAN": 1.01272178321881,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-07",
+        "TARGET": 610,
+        "REALISASI": 620.353820049,
+        "PENCAPAIAN": 1.01697347549016,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-08",
+        "TARGET": 698,
+        "REALISASI": 713.514457308,
+        "PENCAPAIAN": 1.02222701620057,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-09",
+        "TARGET": 787,
+        "REALISASI": 803.152061092,
+        "PENCAPAIAN": 1.02052358461499,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-10",
+        "TARGET": 882,
+        "REALISASI": 895.485926241,
+        "PENCAPAIAN": 1.01529016580612,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-11",
+        "TARGET": 974,
+        "REALISASI": 983.648044712,
+        "PENCAPAIAN": 1.00990559005339,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 TANJUNG PINANG",
+        "BULAN": "2024-12",
+        "TARGET": 1066,
+        "REALISASI": 1076.071396663,
+        "PENCAPAIAN": 1.00944783927111,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-01",
+        "TARGET": 15.89,
+        "REALISASI": 15.203414466,
+        "PENCAPAIAN": 0.956791344619257,
+        "BOBOT": 9.56791344619257
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-02",
+        "TARGET": 30.54,
+        "REALISASI": 30.016465695,
+        "PENCAPAIAN": 0.982857422888016,
+        "BOBOT": 9.82857422888016
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-03",
+        "TARGET": 46.93,
+        "REALISASI": 46.861920711,
+        "PENCAPAIAN": 0.99854934393778,
+        "BOBOT": 9.9854934393778
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-04",
+        "TARGET": 63.07,
+        "REALISASI": 62.788585663,
+        "PENCAPAIAN": 0.995538063469161,
+        "BOBOT": 9.95538063469161
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-05",
+        "TARGET": 80.7,
+        "REALISASI": 79.510846164,
+        "PENCAPAIAN": 0.985264512565056,
+        "BOBOT": 9.85264512565056
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-06",
+        "TARGET": 97.58,
+        "REALISASI": 95.478407486,
+        "PENCAPAIAN": 0.978462876470588,
+        "BOBOT": 9.78462876470588
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-07",
+        "TARGET": 114.47,
+        "REALISASI": 112.229091369,
+        "PENCAPAIAN": 0.980423616397309,
+        "BOBOT": 9.80423616397309
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-08",
+        "TARGET": 131.1,
+        "REALISASI": 129.388557666,
+        "PENCAPAIAN": 0.986945519954233,
+        "BOBOT": 9.86945519954233
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-09",
+        "TARGET": 147.74,
+        "REALISASI": 146.114793543,
+        "PENCAPAIAN": 0.988999550175985,
+        "BOBOT": 9.88999550175985
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-10",
+        "TARGET": 165.62,
+        "REALISASI": 163.487504546,
+        "PENCAPAIAN": 0.987124167045043,
+        "BOBOT": 9.87124167045043
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-11",
+        "TARGET": 182.75,
+        "REALISASI": 180.058892327,
+        "PENCAPAIAN": 0.985274376618331,
+        "BOBOT": 9.85274376618331
+    },
+    {
+        "UNIT": "ULP RENGAT KOTA",
+        "BULAN": "2024-12",
+        "TARGET": 199.88,
+        "REALISASI": 197.469035046,
+        "PENCAPAIAN": 0.987937937992796,
+        "BOBOT": 9.87937937992796
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-01",
+        "TARGET": 16.78,
+        "REALISASI": 16.041634746,
+        "PENCAPAIAN": 0.955997303098927,
+        "BOBOT": 9.55997303098927
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-02",
+        "TARGET": 32.26,
+        "REALISASI": 31.831691705,
+        "PENCAPAIAN": 0.986723239460632,
+        "BOBOT": 9.86723239460632
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-03",
+        "TARGET": 49.57,
+        "REALISASI": 49.137537346,
+        "PENCAPAIAN": 0.991275718095622,
+        "BOBOT": 9.91275718095622
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-04",
+        "TARGET": 66.61,
+        "REALISASI": 66.293227017,
+        "PENCAPAIAN": 0.995244362963519,
+        "BOBOT": 9.95244362963519
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-05",
+        "TARGET": 85.23,
+        "REALISASI": 83.816024045,
+        "PENCAPAIAN": 0.983409879678517,
+        "BOBOT": 9.83409879678517
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-06",
+        "TARGET": 103.07,
+        "REALISASI": 100.818791622,
+        "PENCAPAIAN": 0.978158451751237,
+        "BOBOT": 9.78158451751237
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-07",
+        "TARGET": 120.9,
+        "REALISASI": 118.573032525,
+        "PENCAPAIAN": 0.98075295719603,
+        "BOBOT": 9.8075295719603
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-08",
+        "TARGET": 138.47,
+        "REALISASI": 136.555593962,
+        "PENCAPAIAN": 0.986174579056836,
+        "BOBOT": 9.86174579056836
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-09",
+        "TARGET": 156.04,
+        "REALISASI": 153.873666601,
+        "PENCAPAIAN": 0.986116807235324,
+        "BOBOT": 9.86116807235324
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-10",
+        "TARGET": 174.92,
+        "REALISASI": 172.012120258,
+        "PENCAPAIAN": 0.98337594476332,
+        "BOBOT": 9.8337594476332
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-11",
+        "TARGET": 193.02,
+        "REALISASI": 189.703549594,
+        "PENCAPAIAN": 0.982818099647705,
+        "BOBOT": 9.82818099647705
+    },
+    {
+        "UNIT": "ULP TALUK KUANTAN",
+        "BULAN": "2024-12",
+        "TARGET": 211.11,
+        "REALISASI": 208.523642115,
+        "PENCAPAIAN": 0.987748766590877,
+        "BOBOT": 9.87748766590877
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-01",
+        "TARGET": 5.03,
+        "REALISASI": 4.879083887,
+        "PENCAPAIAN": 0.969996796620278,
+        "BOBOT": 9.69996796620278
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-02",
+        "TARGET": 9.67,
+        "REALISASI": 9.583428828,
+        "PENCAPAIAN": 0.99104744860393,
+        "BOBOT": 9.9104744860393
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-03",
+        "TARGET": 14.85,
+        "REALISASI": 14.956186897,
+        "PENCAPAIAN": 1.00715063279461,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-04",
+        "TARGET": 19.96,
+        "REALISASI": 20.319877412,
+        "PENCAPAIAN": 1.01802993046092,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-05",
+        "TARGET": 25.54,
+        "REALISASI": 25.704765001,
+        "PENCAPAIAN": 1.00645125297572,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-06",
+        "TARGET": 30.89,
+        "REALISASI": 30.926834996,
+        "PENCAPAIAN": 1.00119245697637,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-07",
+        "TARGET": 36.23,
+        "REALISASI": 36.289537683,
+        "PENCAPAIAN": 1.00164332550373,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-08",
+        "TARGET": 41.5,
+        "REALISASI": 41.743548701,
+        "PENCAPAIAN": 1.00586864339759,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-09",
+        "TARGET": 46.76,
+        "REALISASI": 47.027599646,
+        "PENCAPAIAN": 1.00572283246364,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-10",
+        "TARGET": 52.42,
+        "REALISASI": 52.486509999,
+        "PENCAPAIAN": 1.00126879051889,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-11",
+        "TARGET": 57.85,
+        "REALISASI": 57.765350603,
+        "PENCAPAIAN": 0.998536743353501,
+        "BOBOT": 9.98536743353501
+    },
+    {
+        "UNIT": "ULP KUALA ENOK",
+        "BULAN": "2024-12",
+        "TARGET": 63.27,
+        "REALISASI": 63.304749301,
+        "PENCAPAIAN": 1.00054922239608,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-01",
+        "TARGET": 14.58,
+        "REALISASI": 14.217516545,
+        "PENCAPAIAN": 0.975138308984911,
+        "BOBOT": 9.75138308984911
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-02",
+        "TARGET": 28.02,
+        "REALISASI": 28.320420687,
+        "PENCAPAIAN": 1.01072165192719,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-03",
+        "TARGET": 43.05,
+        "REALISASI": 44.264567366,
+        "PENCAPAIAN": 1.02821294694541,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-04",
+        "TARGET": 57.85,
+        "REALISASI": 59.73058884,
+        "PENCAPAIAN": 1.03250801797753,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-05",
+        "TARGET": 74.03,
+        "REALISASI": 75.572666427,
+        "PENCAPAIAN": 1.02083839560989,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-06",
+        "TARGET": 89.52,
+        "REALISASI": 90.820320296,
+        "PENCAPAIAN": 1.01452547247542,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-07",
+        "TARGET": 105,
+        "REALISASI": 106.525680333,
+        "PENCAPAIAN": 1.01453028888571,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-08",
+        "TARGET": 120.26,
+        "REALISASI": 122.65250259,
+        "PENCAPAIAN": 1.01989441701314,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-09",
+        "TARGET": 135.53,
+        "REALISASI": 138.223532276,
+        "PENCAPAIAN": 1.01987406681915,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-10",
+        "TARGET": 151.93,
+        "REALISASI": 154.166244617,
+        "PENCAPAIAN": 1.01471891408543,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-11",
+        "TARGET": 167.64,
+        "REALISASI": 169.523576125,
+        "PENCAPAIAN": 1.01123583944763,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP TEMBILAHAN",
+        "BULAN": "2024-12",
+        "TARGET": 183.36,
+        "REALISASI": 185.382404331,
+        "PENCAPAIAN": 1.01102969203207,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-01",
+        "TARGET": 11.72,
+        "REALISASI": 11.820001002,
+        "PENCAPAIAN": 1.00853250870307,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-02",
+        "TARGET": 22.52,
+        "REALISASI": 23.091617622,
+        "PENCAPAIAN": 1.02538266527531,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-03",
+        "TARGET": 34.6,
+        "REALISASI": 35.864873619,
+        "PENCAPAIAN": 1.03655704101156,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-04",
+        "TARGET": 46.5,
+        "REALISASI": 47.971649753,
+        "PENCAPAIAN": 1.03164838178495,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-05",
+        "TARGET": 59.5,
+        "REALISASI": 60.414247958,
+        "PENCAPAIAN": 1.01536551189916,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-06",
+        "TARGET": 71.95,
+        "REALISASI": 72.389380174,
+        "PENCAPAIAN": 1.00610674321056,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-07",
+        "TARGET": 84.4,
+        "REALISASI": 85.093837687,
+        "PENCAPAIAN": 1.00822082567536,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-08",
+        "TARGET": 96.66,
+        "REALISASI": 97.768912208,
+        "PENCAPAIAN": 1.01147229679288,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-09",
+        "TARGET": 108.93,
+        "REALISASI": 110.350807974,
+        "PENCAPAIAN": 1.01304331198017,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-10",
+        "TARGET": 122.11,
+        "REALISASI": 123.297103301,
+        "PENCAPAIAN": 1.00972158955859,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-11",
+        "TARGET": 134.74,
+        "REALISASI": 135.635716965,
+        "PENCAPAIAN": 1.00664774354312,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP AIR MOLEK",
+        "BULAN": "2024-12",
+        "TARGET": 147.37,
+        "REALISASI": 148.661965355,
+        "PENCAPAIAN": 1.00876681383592,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-01",
+        "TARGET": 64,
+        "REALISASI": 62.161650646,
+        "PENCAPAIAN": 0.97127579134375,
+        "BOBOT": 9.7127579134375
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-02",
+        "TARGET": 123,
+        "REALISASI": 122.843624537,
+        "PENCAPAIAN": 0.998728654772358,
+        "BOBOT": 9.98728654772358
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-03",
+        "TARGET": 189,
+        "REALISASI": 191.085085939,
+        "PENCAPAIAN": 1.01103220073545,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-04",
+        "TARGET": 254,
+        "REALISASI": 257.103928685,
+        "PENCAPAIAN": 1.01222019167323,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-05",
+        "TARGET": 325,
+        "REALISASI": 325.018549595,
+        "PENCAPAIAN": 1.00005707567692,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-06",
+        "TARGET": 393,
+        "REALISASI": 390.433734574,
+        "PENCAPAIAN": 0.993470062529262,
+        "BOBOT": 9.93470062529262
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-07",
+        "TARGET": 461,
+        "REALISASI": 458.711179597,
+        "PENCAPAIAN": 0.995035096739696,
+        "BOBOT": 9.95035096739696
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-08",
+        "TARGET": 528,
+        "REALISASI": 528.109115127,
+        "PENCAPAIAN": 1.0002066574375,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-09",
+        "TARGET": 595,
+        "REALISASI": 595.59040004,
+        "PENCAPAIAN": 1.00099226897479,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-10",
+        "TARGET": 667,
+        "REALISASI": 665.449482721,
+        "PENCAPAIAN": 0.997675386388306,
+        "BOBOT": 9.97675386388306
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-11",
+        "TARGET": 736,
+        "REALISASI": 732.687085614,
+        "PENCAPAIAN": 0.995498757627717,
+        "BOBOT": 9.95498757627717
+    },
+    {
+        "UNIT": "UP3 RENGAT",
+        "BULAN": "2024-12",
+        "TARGET": 805,
+        "REALISASI": 803.341796148,
+        "PENCAPAIAN": 0.997940119438509,
+        "BOBOT": 9.97940119438509
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-01",
+        "TARGET": 17.2158043494765,
+        "REALISASI": 16.764705331,
+        "PENCAPAIAN": 0.973797389345319,
+        "BOBOT": 9.73797389345319
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-02",
+        "TARGET": 33.1840866446432,
+        "REALISASI": 33.308648872,
+        "PENCAPAIAN": 1.00375367352101,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-03",
+        "TARGET": 50.8988998158437,
+        "REALISASI": 51.891612892,
+        "PENCAPAIAN": 1.01950362541721,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-04",
+        "TARGET": 68.3642085761822,
+        "REALISASI": 70.224900201,
+        "PENCAPAIAN": 1.02721733584825,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-05",
+        "TARGET": 87.5760482125546,
+        "REALISASI": 89.642496167,
+        "PENCAPAIAN": 1.02359604020302,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-06",
+        "TARGET": 105.789870205479,
+        "REALISASI": 108.034733504,
+        "PENCAPAIAN": 1.02122002129467,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-07",
+        "TARGET": 124.003692198404,
+        "REALISASI": 127.103468732,
+        "PENCAPAIAN": 1.02499745353256,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-08",
+        "TARGET": 141.968009780466,
+        "REALISASI": 146.350537433,
+        "PENCAPAIAN": 1.03086982524662,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-09",
+        "TARGET": 159.932327362529,
+        "REALISASI": 165.043014594,
+        "PENCAPAIAN": 1.03195531082272,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-10",
+        "TARGET": 179.393671409763,
+        "REALISASI": 184.169665569,
+        "PENCAPAIAN": 1.02662298018489,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-11",
+        "TARGET": 197.856997813549,
+        "REALISASI": 202.623179756,
+        "PENCAPAIAN": 1.02408902386633,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP BANGKINANG",
+        "BULAN": "2024-12",
+        "TARGET": 216.81933303906,
+        "REALISASI": 222.261559036,
+        "PENCAPAIAN": 1.02510028013028,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-01",
+        "TARGET": 19.3982760821859,
+        "REALISASI": 19.235985299,
+        "PENCAPAIAN": 0.991633752272712,
+        "BOBOT": 9.91633752272712
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-02",
+        "TARGET": 37.3908799845032,
+        "REALISASI": 37.991274402,
+        "PENCAPAIAN": 1.0160572422405,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-03",
+        "TARGET": 57.3514249386364,
+        "REALISASI": 59.302582235,
+        "PENCAPAIAN": 1.03402107791483,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-04",
+        "TARGET": 77.030835456796,
+        "REALISASI": 79.405485838,
+        "PENCAPAIAN": 1.03082727023694,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-05",
+        "TARGET": 98.6781870267715,
+        "REALISASI": 101.337638584,
+        "PENCAPAIAN": 1.02695075413685,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-06",
+        "TARGET": 119.201000852852,
+        "REALISASI": 121.958049907,
+        "PENCAPAIAN": 1.02312941195478,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-07",
+        "TARGET": 139.723814678933,
+        "REALISASI": 143.934700417,
+        "PENCAPAIAN": 1.03013720851913,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-08",
+        "TARGET": 159.96549406904,
+        "REALISASI": 165.995079534,
+        "PENCAPAIAN": 1.03769303811457,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-09",
+        "TARGET": 180.207173459147,
+        "REALISASI": 187.952305281,
+        "PENCAPAIAN": 1.04297904280491,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-10",
+        "TARGET": 202.135659465096,
+        "REALISASI": 210.815598758,
+        "PENCAPAIAN": 1.04294115801177,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-11",
+        "TARGET": 222.93960772715,
+        "REALISASI": 232.590955772,
+        "PENCAPAIAN": 1.04329131168411,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP KAMPAR",
+        "BULAN": "2024-12",
+        "TARGET": 244.305824861152,
+        "REALISASI": 255.746071712,
+        "PENCAPAIAN": 1.04682756482515,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-01",
+        "TARGET": 8.74114922283787,
+        "REALISASI": 8.88335353,
+        "PENCAPAIAN": 1.01626837656433,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-02",
+        "TARGET": 16.8488818353252,
+        "REALISASI": 17.623357162,
+        "PENCAPAIAN": 1.04596597769776,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-03",
+        "TARGET": 25.8433977023033,
+        "REALISASI": 27.182943059,
+        "PENCAPAIAN": 1.05183317503864,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-04",
+        "TARGET": 34.7112302472112,
+        "REALISASI": 36.586958922,
+        "PENCAPAIAN": 1.05403809261239,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-05",
+        "TARGET": 44.46584604661,
+        "REALISASI": 46.502598722,
+        "PENCAPAIAN": 1.04580487849607,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-06",
+        "TARGET": 53.7137285577283,
+        "REALISASI": 56.113728583,
+        "PENCAPAIAN": 1.04468131499552,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-07",
+        "TARGET": 62.9616110688467,
+        "REALISASI": 66.19218199,
+        "PENCAPAIAN": 1.05131016926522,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-08",
+        "TARGET": 72.0828102578949,
+        "REALISASI": 76.42080794,
+        "PENCAPAIAN": 1.06018075136894,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-09",
+        "TARGET": 81.2040094469431,
+        "REALISASI": 86.336226604,
+        "PENCAPAIAN": 1.0632015240628,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-10",
+        "TARGET": 91.085308568412,
+        "REALISASI": 96.515474018,
+        "PENCAPAIAN": 1.05961626012948,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-11",
+        "TARGET": 100.4598744016,
+        "REALISASI": 106.487980407,
+        "PENCAPAIAN": 1.0600051119047,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP LIPAT KAIN",
+        "BULAN": "2024-12",
+        "TARGET": 110.087806878929,
+        "REALISASI": 117.169572146,
+        "PENCAPAIAN": 1.06432833451628,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-01",
+        "TARGET": 13.324145308717,
+        "REALISASI": 13.435468556,
+        "PENCAPAIAN": 1.00835500099283,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-02",
+        "TARGET": 25.68277284144,
+        "REALISASI": 26.943813639,
+        "PENCAPAIAN": 1.04910064833519,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-03",
+        "TARGET": 39.3931252605546,
+        "REALISASI": 41.979604414,
+        "PENCAPAIAN": 1.06565813543195,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-04",
+        "TARGET": 52.9103741244704,
+        "REALISASI": 56.824921951,
+        "PENCAPAIAN": 1.073984504765,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-05",
+        "TARGET": 67.7793478747777,
+        "REALISASI": 72.314299748,
+        "PENCAPAIAN": 1.0669075760599,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-06",
+        "TARGET": 81.8759074042899,
+        "REALISASI": 87.218420086,
+        "PENCAPAIAN": 1.06525134012048,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-07",
+        "TARGET": 95.9724669338021,
+        "REALISASI": 102.93194884,
+        "PENCAPAIAN": 1.07251540080759,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-08",
+        "TARGET": 109.875922908115,
+        "REALISASI": 118.552341846,
+        "PENCAPAIAN": 1.07896560691591,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-09",
+        "TARGET": 123.779378882429,
+        "REALISASI": 133.449441005,
+        "PENCAPAIAN": 1.07812336925487,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-10",
+        "TARGET": 138.841456187935,
+        "REALISASI": 149.246679707,
+        "PENCAPAIAN": 1.07494320359893,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-11",
+        "TARGET": 153.131119272646,
+        "REALISASI": 164.255267058,
+        "PENCAPAIAN": 1.07264459267452,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP PASIR PANGARAIAN",
+        "BULAN": "2024-12",
+        "TARGET": 167.806989467755,
+        "REALISASI": 179.879979025,
+        "PENCAPAIAN": 1.07194568948253,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-01",
+        "TARGET": 10.3206250367827,
+        "REALISASI": 10.81107084,
+        "PENCAPAIAN": 1.04752094000793,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-02",
+        "TARGET": 19.8933786940885,
+        "REALISASI": 21.463711104,
+        "PENCAPAIAN": 1.0789374411486,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-03",
+        "TARGET": 30.513152282662,
+        "REALISASI": 33.127377516,
+        "PENCAPAIAN": 1.08567535760058,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-04",
+        "TARGET": 40.9833515953402,
+        "REALISASI": 44.483143843,
+        "PENCAPAIAN": 1.08539546209436,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-05",
+        "TARGET": 52.5005708392861,
+        "REALISASI": 56.651099138,
+        "PENCAPAIAN": 1.07905682228522,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-06",
+        "TARGET": 63.4194929796504,
+        "REALISASI": 68.255663174,
+        "PENCAPAIAN": 1.07625684102996,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-07",
+        "TARGET": 74.3384151200148,
+        "REALISASI": 80.321092532,
+        "PENCAPAIAN": 1.08047894755796,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-08",
+        "TARGET": 85.1077629844837,
+        "REALISASI": 92.386677696,
+        "PENCAPAIAN": 1.08552586105269,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-09",
+        "TARGET": 95.8771108489527,
+        "REALISASI": 104.052171636,
+        "PENCAPAIAN": 1.08526603184702,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-10",
+        "TARGET": 107.543904368794,
+        "REALISASI": 116.284686042,
+        "PENCAPAIAN": 1.08127640264233,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-11",
+        "TARGET": 118.612400785054,
+        "REALISASI": 127.995166576,
+        "PENCAPAIAN": 1.07910442524428,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "ULP UJUNG BATU",
+        "BULAN": "2024-12",
+        "TARGET": 129.980045753104,
+        "REALISASI": 140.342513663,
+        "PENCAPAIAN": 1.0797235287144,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-01",
+        "TARGET": 69,
+        "REALISASI": 69.130583556,
+        "PENCAPAIAN": 1.00189251530435,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-02",
+        "TARGET": 133,
+        "REALISASI": 137.330805179,
+        "PENCAPAIAN": 1.03256244495489,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-03",
+        "TARGET": 204,
+        "REALISASI": 213.484120116,
+        "PENCAPAIAN": 1.04649078488235,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-04",
+        "TARGET": 274,
+        "REALISASI": 287.525410755,
+        "PENCAPAIAN": 1.04936281297445,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-05",
+        "TARGET": 351,
+        "REALISASI": 366.448132359,
+        "PENCAPAIAN": 1.04401177310256,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-06",
+        "TARGET": 424,
+        "REALISASI": 441.580595254,
+        "PENCAPAIAN": 1.04146366805189,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-07",
+        "TARGET": 497,
+        "REALISASI": 520.483392511,
+        "PENCAPAIAN": 1.04725028674245,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-08",
+        "TARGET": 569,
+        "REALISASI": 599.705444449,
+        "PENCAPAIAN": 1.05396387425132,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-09",
+        "TARGET": 641,
+        "REALISASI": 676.83315912,
+        "PENCAPAIAN": 1.05590196430577,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-10",
+        "TARGET": 719,
+        "REALISASI": 757.032104094,
+        "PENCAPAIAN": 1.05289583323227,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-11",
+        "TARGET": 793,
+        "REALISASI": 833.952549569,
+        "PENCAPAIAN": 1.05164255935561,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UP3 BANGKINANG",
+        "BULAN": "2024-12",
+        "TARGET": 869,
+        "REALISASI": 915.399695582,
+        "PENCAPAIAN": 1.05339435625086,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-01",
+        "TARGET": 778,
+        "REALISASI": 788.732605906,
+        "PENCAPAIAN": 1.01379512327249,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-02",
+        "TARGET": 1501,
+        "REALISASI": 1552.131107254,
+        "PENCAPAIAN": 1.03406469503931,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-03",
+        "TARGET": 2302,
+        "REALISASI": 2394.670917548,
+        "PENCAPAIAN": 1.04025669745786,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-04",
+        "TARGET": 3102,
+        "REALISASI": 3198.254233621,
+        "PENCAPAIAN": 1.031029733598,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-05",
+        "TARGET": 3962,
+        "REALISASI": 4045.681764334,
+        "PENCAPAIAN": 1.0211210914523,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-06",
+        "TARGET": 4795,
+        "REALISASI": 4844.151962178,
+        "PENCAPAIAN": 1.01025066990156,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-07",
+        "TARGET": 5620,
+        "REALISASI": 5661.876936578,
+        "PENCAPAIAN": 1.00745141220249,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-08",
+        "TARGET": 6430,
+        "REALISASI": 6514.41216732,
+        "PENCAPAIAN": 1.01312786427994,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-09",
+        "TARGET": 7248,
+        "REALISASI": 7344.768408119,
+        "PENCAPAIAN": 1.01335104968529,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-10",
+        "TARGET": 8126,
+        "REALISASI": 8199.494410694,
+        "PENCAPAIAN": 1.00904435278046,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-11",
+        "TARGET": 8967,
+        "REALISASI": 9029.596314197,
+        "PENCAPAIAN": 1.00698074207617,
+        "BOBOT": 10
+    },
+    {
+        "UNIT": "UIDRKR",
+        "BULAN": "2024-12",
+        "TARGET": 9818,
+        "REALISASI": 9891.749959936,
+        "PENCAPAIAN": 1.00751170909921,
+        "BOBOT": 10
+    }
+]
