@@ -25,8 +25,28 @@
             border-radius: 8px;
         }
         #chartDiv {
-            height: 500px;
+            width: 100%;
+            height: auto;
+            
+            min-height: 100px;
+            max-height: 700px;
+            margin: 0 auto;
             margin-top: 20px;
+        }
+        @media only screen and (max-width: 600px) {
+            #chartDiv {
+                height: 100px;
+            }
+        }
+        @media only screen and (min-width: 601px) and (max-width: 1024px) {
+            #chartDiv {
+                height: 300px;
+            }
+        }
+        @media only screen and (min-width: 1025px) {
+            #chartDiv {
+                height: 500px;
+            }
         }
         select {
             padding: 5px;
@@ -59,9 +79,10 @@
             // Membuat chart
             JSC.Chart('chartDiv', {
                 type: 'vertical',
+                resize_listener: true,
                 title_label: {
                     text: `PERBANDINGAN TARGET vs REALISASI - ${selectedUnit}`,
-                    style_fontSize: 22,
+                    style_fontSize: 17,
                     style_fontWeight: 'bold',
                     align: 'center',
                     margin_bottom: 30
@@ -130,8 +151,9 @@
             if (points.length === 2) {
                 var result =
                     points[0].replaceTokens('%seriesName') === 'TARGET'
-                        ? 'Beat (<span style="color:' + palette[1] + '"><b>' + Math.round((points[1].y / points[0].y) * 100) + '%</b></span> of Target)'
-                        : 'Missed (<span style="color:' + palette[0] + '"><b>' + Math.round((points[0].y / points[1].y) * 100) + '%</b></span> of Target)';
+                        ? 'Missed (<span style="color:' + palette[0] + '"><b>' + Math.round((points[1].y / points[0].y) * 100) + '%</b></span> of Target)'
+                        :'Beat (<span style="color:' + palette[1] + '"><b>' + Math.round((points[0].y / points[1].y) * 100) + '%</b></span> of Target)';
+                        
                 return '<b>%xValue</b><br>' + result + '<br>' + '%points';
             }
             return '<b>%xValue</b><br>' + '%points';
@@ -167,10 +189,9 @@
 </head>
 <body>
     <div id="chartContainer">
-        <h2>PERBANDINGAN TARGET vs REALISASI PENJUALAN TENAGA LISTRIK</h2>
-        <label for="unitSelect">Pilih UNIT:</label>
-        <select id="unitSelect"></select>
         <div id="chartDiv"></div>
+        <label for="unitSelect">PILIH UNIT:</label>
+        <select id="unitSelect"></select>
     </div>
 </body>
 </html>
