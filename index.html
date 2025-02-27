@@ -17,7 +17,7 @@
             margin: 20px;
         }
         #chartContainer {
-            max-width: 1200px;
+            max-width: 800px;
             margin: 0 auto;
             padding: 20px;
             background-color: #fff;
@@ -63,7 +63,8 @@
                     text: `PERBANDINGAN TARGET vs REALISASI - ${selectedUnit}`,
                     style_fontSize: 22,
                     style_fontWeight: 'bold',
-                    align: 'center'
+                    align: 'center',
+                    margin_bottom: 30
                 },
                 legend: {
                     template: '%icon,%name',
@@ -113,7 +114,7 @@
                     name: 'TARGET',
                     defaultPoint_marker: {
                         type: 'linear/arrows/minus',
-                        size: 30,
+                        size: 40,
                         rotate: 0
                     },
                     points: data.map(item => ({
